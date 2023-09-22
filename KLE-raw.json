@@ -1,0 +1,204 @@
+[
+    {c: "#354f95",t: "#e4e4e4",p: "OEM R1",a: 7,f: 4
+    },
+    "ESC",
+    {c: "#cccccc",t: "#000000",a: 4
+    },
+    "1\n\n\nぬ\n\n\n\n\n!",
+    "2\n\n\nふ\n\n\n\n\n@",
+    "3\n\n\nあ\n\n\n\n\n#",
+    "4\n\n\nう\n\n\n\n\n$",
+    "5\n\n\nえ\n\n\n\n\n%",
+    "6\n\n\nお\n\n\n\n\n^",
+    "7\n\n\nや\n\n\n\n\n&",
+    "8\n\n\nゆ\n\n\n\n\n*",
+    "9\n\n\nよ\n\n\n\n\n(",
+    "0\n\n\nわ\n\n\n\n\n)",
+    "-\n\n\nほ\n\n\n\n\n_",
+    {a: 0
+    },
+    "=\n\n\nへ\n<span class='cd'>&#9676;&#769;</span>\n<span class='cd'>&#9676;&#768;</span>\n\n\n+",
+    {a: 5,w: 2
+    },
+    "&larr; Backspace",
+    "Del",
+    {x: 0.25
+    },
+    "F1",
+    "F6",
+    {x: 0.25,c: "#bbbbbbb",a: 7
+    },
+    "<i class='kb kb-Multimedia-Volume-Up-1'></i>"
+],
+[
+    {c: "#cccccc",p: "OEM R2",a: 4,w: 1.5
+    },
+    "Tab",
+    "Q\n\n\nた",
+    "W\n\n\nて",
+    "E\n\n\nい\n€",
+    "R\n\n\nす",
+    "T\n\n\nか",
+    "Y\n\n\nん\n&yen;",
+    "U\n\n\nな",
+    "I\n\n\nに",
+    "O\n\n\nら",
+    "P\n\n\nせ",
+    "[\n\n\n「\nÜ\n\n\n\n{",
+    "]\n\n\n」\n\n\n\n\n}",
+    {w: 1.5
+    },
+    "\n\n\nむ\n\n\n\n\n|\n\n\\",
+    {a: 7,fa: [
+            9
+        ]
+    },
+    "<i class='mss mss-Unicode-PrintScreen-3'></i>\n\n\n\nP<i class='fa fa-angle-double-up'></i>",
+    {x: 0.25,a: 5,f: 4
+    },
+    "F2\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    {f: 4
+    },
+    "F7\n\n\n\n<i class='kb kb-Multimedia-Stop'></i>",
+    {x: 0.25,c: "#bbbbbbb",a: 7,f: 4
+    },
+    "<i class='fa fa-microphone'></i>"
+],
+[
+    {c: "#cccccc",p: "OEM R3",a: 4,f: 4,w: 1.75
+    },
+    "Capslock",
+    {f: 4
+    },
+    "A\n\n\nち\n&aelig;",
+    {f: 4
+    },
+    "S\n\n\nと\n$",
+    {f: 4
+    },
+    "D\n\n\nし",
+    {f: 4,n: true
+    },
+    "F\n\n\nは",
+    {f: 4
+    },
+    "G\n\n\nき",
+    {f: 4
+    },
+    "H\n\n\nく",
+    {f: 4
+    },
+    "J\n\n\nま",
+    {f: 4
+    },
+    "K\n\n\nの",
+    {f: 4
+    },
+    "L\n\n\nり",
+    {f: 4
+    },
+    ":\n;\n\nれ\nÖ",
+    {f: 4
+    },
+    "\"\n'\n\nけ\nÄ",
+    {a: 5,f: 4,w: 2.25
+    },
+    "Enter",
+    {f: 4
+    },
+    "End\n\n\n\nP<i class='fa fa-angle-double-down'></i>",
+    {x: 0.25,f: 4
+    },
+    "F3\n\n\n\n<i class='kb kb-Multimedia-Rewind'></i>",
+    {f: 4
+    },
+    "F8\n\n\n\n<i class='kb kb-Multimedia-FastForwar'></i>"
+],
+[
+    {p: "OEM R4",a: 4,f: 4,w: 2.25
+    },
+    "Shift",
+    {f: 4
+    },
+    "Z\n\n\nつ",
+    {f: 4
+    },
+    "X\n\n\nさ",
+    {f: 4
+    },
+    "C\n\n\nそ\n&ccedil",
+    {f: 4
+    },
+    "V\n\n\nひ",
+    {f: 4
+    },
+    "B\n\n\nこ",
+    {f: 4
+    },
+    "N\n\n\nみ",
+    {f: 4
+    },
+    "M\n\n\nも\nµ",
+    {f: 4
+    },
+    ",\n、\n\nね\n\n\n\n\n<",
+    {f: 4
+    },
+    ".\n\n\nる\n\n\n\n\n>\n\n。",
+    {f: 4
+    },
+    "/\n・\n\nめ\n\n\n\n\n?",
+    {a: 5,f: 4,w: 1.75
+    },
+    "Shift",
+    {a: 7,f: 4
+    },
+    "<i class='fa fa-angle-double-up'></i>",
+    {a: 5,f: 4
+    },
+    "Fn",
+    {x: 0.25,f: 4
+    },
+    "F4\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    {f: 4
+    },
+    "F9\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-2'></i>"
+],
+[
+    {p: "OEM R5",a: 4,f: 4,w: 1.25
+    },
+    "Ctrl",
+    {f: 4,w: 1.25
+    },
+    "<i class='kb kb-logo-gnu'></i>",
+    {f: 4,w: 1.25
+    },
+    "Alt",
+    {a: 1,f: 4,w: 6.25
+    },
+    "&minus;\n\n\n\nドイツ語\n日本語\n\n\n\n\n\n英語",
+    {a: 5,f: 4
+    },
+    "Fn\n\n\n\n<i class='kb kb-Multimedia-Mute-1'></i>",
+    {f: 4
+    },
+    "Alt\n\n\n\n<i class='fa fa-microphone-slash'></i>",
+    {f: 4
+    },
+    "Win",
+    {a: 7,f: 4
+    },
+    "<i class='fa fa-angle-double-left'></i>",
+    {f: 4
+    },
+    "<i class='fa fa-angle-double-down'></i>",
+    {f: 4
+    },
+    "<i class='fa fa-angle-double-right'></i>",
+    {x: 0.25,a: 5,f: 4
+    },
+    "F5\n\n\n\n<i class='kb kb-Unicode-Screen-Dim'></i>",
+    {f: 4
+    },
+    "F10\n\n\n\n<i class='kb kb-Unicode-Screen-Bright'></i>"
+]
