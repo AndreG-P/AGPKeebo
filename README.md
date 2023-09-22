@@ -14,4 +14,14 @@ The main purpose of the two independent north- and south-facing LEDs was to allo
 
 ### PCB & Schematics
 
-The PCB and the schematics were created using KiCad 6 and are available in the [pcb] folder.
+The PCB and the schematics were created using KiCad 6 and are available in the [[pcb]] folder. The [[img]] folder contains images for the key matrix layout.
+
+### Case
+
+Since the case is a non-standard layout, the [[case]] folder contains 3D step models to CNC or 3D print the case. The case design is a gasket mount style, of three layers + the plate sandwiched together. From top to bottom we have:
+1. Top Layer
+2. Plate
+3. Middle acrylic layer for the underglow
+4. Bottom Layer
+
+Additionally, the case contains a weight (attached to the bottom layer), an artisan plate with magnet (R: 3mm, D: 1mm) holders, and an acrlic shield to cover the naked PCB for aesthetics. Besides step files it also contains a Fusion 360 archive file.
