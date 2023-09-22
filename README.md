@@ -12,9 +12,15 @@ The AGPKeebo is a 78 keys keyboard with a couple of unique features:
 
 The main purpose of the two independent north- and south-facing LEDs was to allow highlighting certain keys for different language settings (e.g. highlight German "umlaute" such as ü or ö as side prints on the keys). However, this feature would require novel keycaps which do not exist yet. Making such keycaps are beyond the limitations of this project for now.
 
+![Image of AGPKeeb](img/AGPKeeb.jpg)
+
 ### PCB & Schematics
 
 The PCB and the schematics were created using KiCad 6 and are available in the `pcb` folder. The `img` folder contains images for the key matrix layout.
+
+![Image of AGPKeeb's PCB](img/AGPKeeb-PCB.jpg)
+
+<img src="img/AGPKeeb-PCB-WindowArea.jpg" width="500">
 
 ### Case
 
@@ -25,3 +31,7 @@ Since the case is a non-standard layout, the `case` folder contains 3D step mode
 4. Bottom Layer
 
 Additionally, the case contains a weight (attached to the bottom layer), an artisan plate with magnet (R: 3mm, D: 1mm) holders, and an acrlic shield to cover the naked PCB for aesthetics. Besides step files it also contains a Fusion 360 archive file.
+
+<img src="img/AGPKeeb-SDCardReader.jpg" width="250"><img src="img/AGPKeeb-WindowView.jpg" width="250">
+
+<img src="img/AGPKeeb-Weight.jpg" width="500">
